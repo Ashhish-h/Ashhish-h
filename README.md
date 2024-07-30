@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhish-h" alt="ashhish-h" /></a> </p>
 
-- 🔭 I’m currently learning **JavaScript and UI/UX**
+- 🔭 I’m currently learning **spring-boot framework**
 
 - 😄 Pronouns: **He/Him**
 
