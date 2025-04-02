@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **programming**
 
-- 📫 How to reach me **kushwaha.ashish2611@gmail.com**
+- 📫 How to reach me **ashish.singhkus826@gmail.com**
 
 - ⚡ Fun fact **I used to think people care about others**
 
