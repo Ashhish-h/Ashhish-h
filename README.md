@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhish-h" alt="ashhish-h" /></a> </p>
 
-- 🔭 I’m currently learning **spring-boot**
+- 🔭 I’m currently learning **Spring-boot**
 
 - 😄 Pronouns: **He/Him**
 
 - 🤝 I’m looking for help with **good resources on JavaScript and UI/UX**
 
-- 💬 Ask me about **programing**
+- 💬 Ask me about **programming**
 
 - 📫 How to reach me **kushwaha.ashish2611@gmail.com**
 
