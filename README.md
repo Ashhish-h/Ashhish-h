@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 🤝 I’m looking for help with **good resources on JavaScript and UI/UX**
+- 🤝 I’m looking for help with **Spring Boot**
 
 - 💬 Ask me about **programming**
 
