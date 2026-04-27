@@ -9,8 +9,6 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 🤝 I’m looking for help with **Spring Boot**
-
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **ashish.singhkus826@gmail.com**
