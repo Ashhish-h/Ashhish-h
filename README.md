@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh Kushwaha</h1>
-<h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Distributed Systems | Kafka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhish-h&label=Profile%20views&color=0e75b6&style=flat" alt="ashhish-h" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhish-h" alt="ashhish-h" /></a> </p>
 
-- 🔭 I’m currently learning **Spring-boot**
+- 🔭 I'm currently exploring distributed systems design and Kafka-driven event pipelines
 
 - 😄 Pronouns: **He/Him**
 
-- 💬 Ask me about **programming**
+- 💬 Ask me about Spring Boot, Microservices, Kafka, or System Design
 
-- 📫 How to reach me **ashish.singhkus826@gmail.com**
+- 📫 How to reach me **ashixh.s26@gmail.com**
 
 - ⚡ Fun fact **I used to think people care about others**
 
